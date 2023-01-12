@@ -12,7 +12,7 @@ As an iPad user curious about Swift Playgrounds, my iOS development journey bega
 <b>Current learning paths:</b>
 
 
-👨🏻‍💻 Principles of UX/UI, Course 4 of 12 in a Meta iOS Professional Developer Certificate offered through Coursera.
+👨🏻‍💻 Principles of UX/UI, Course 4 of 12 in a Meta iOS Professional Developer Certificate offered through Coursera. <n/>
 👨🏻‍💻 CS50x: Introduction to Computer Science
 👨🏻‍💻 Apple Developer iOS Dev Tutorials: UIKit Essentials
 
