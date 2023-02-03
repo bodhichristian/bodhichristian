@@ -12,6 +12,7 @@ As an iPad user curious about Swift Playgrounds, my iOS development journey bega
 https://github.com/bodhichristian/AskAI
 
 <b>Current learning path:</b>
+🟩🟩🟩🟩🟩⬛️⬛️⬛️⬛️⬛️⬛️⬛️
 👨🏻‍💻 Create the User Interface with SwiftUI, Course 5 of 12 in a Meta iOS Professional Developer Certificate offered through Coursera.
 
 
