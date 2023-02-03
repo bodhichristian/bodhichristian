@@ -13,6 +13,7 @@ https://github.com/bodhichristian/AskAI
 ![1500x500](https://user-images.githubusercontent.com/110639779/212133514-741c5a13-60f2-4e57-bcff-9439ed9d2b25.jpeg)
 
 <b>Current learning path:</b>
+
 🟩🟩🟩🟩🟩⬛️⬛️⬛️⬛️⬛️⬛️⬛️
 
 
