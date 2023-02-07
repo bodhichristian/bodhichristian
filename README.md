@@ -14,8 +14,8 @@ https://github.com/bodhichristian/AskAI
 
 <b>Current learning path:</b>
 
-🟩🟩🟩🟩🟩⬛️⬛️⬛️⬛️⬛️⬛️⬛️
+🟩🟩🟩🟩🟩🟩⬛️⬛️⬛️⬛️⬛️⬛️
 
 
-👨🏻‍💻 Create the User Interface with SwiftUI, Course 5 of 12 in a Meta iOS Professional Developer Certificate offered through Coursera.
+👨🏻‍💻 Advanced Programming with Swift, Course 6 of 12 in a Meta iOS Professional Developer Certificate offered through Coursera.
 https://www.coursera.org/professional-certificates/meta-ios-developer
