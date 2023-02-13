@@ -16,7 +16,7 @@ https://www.coursera.org/professional-certificates/meta-ios-developer
 
 
 <b>Current passion project: AskAI</b>
-![Screenshot 2023-02-03 at 10 53 01 AM](https://user-images.githubusercontent.com/110639779/216647602-5df2b8de-9683-430a-aaca-74dfbb25879b.png)
+<img width="1660" alt="Screenshot 2023-02-13 at 4 49 55 PM" src="https://user-images.githubusercontent.com/110639779/218582592-4c1670fc-5560-46fe-899d-c8d6032e91cf.png">
 https://github.com/bodhichristian/AskAI
 
 <b>Project Gallery </b>
