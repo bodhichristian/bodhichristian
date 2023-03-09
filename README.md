@@ -8,10 +8,10 @@ As an iPad user curious about programming for Apple systems, my development jour
 
 <b>Current learning path:</b>
 
-🟩🟩🟩🟩🟩🟩⬛️⬛️⬛️⬛️⬛️⬛️
+🟩🟩🟩🟩🟩🟩🟩⬛️⬛️⬛️⬛️⬛️
 
 
-👨🏻‍💻 Advanced Programming with Swift, Course 6 of 12 in a Meta iOS Professional Developer Certificate offered through Coursera.
+👨🏻‍💻 Working with Data in iOS, Course 7 of 12 in a Meta iOS Professional Developer Certificate offered through Coursera.
 https://www.coursera.org/professional-certificates/meta-ios-developer
 
 
