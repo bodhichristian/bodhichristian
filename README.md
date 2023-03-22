@@ -13,6 +13,7 @@ https://github.com/bodhichristian/AskAI
 
 
 <b>Project Gallery </b>
+
 ![big showcase spring 23 001](https://user-images.githubusercontent.com/110639779/226939118-7c64ecc5-9297-4536-bb55-747766773d79.jpeg)
 
 
