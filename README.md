@@ -15,11 +15,8 @@ As an iPad user curious about programming for Apple systems, my development jour
 https://www.coursera.org/professional-certificates/meta-ios-developer
 
 
-<b>Current passion project: AskAI</b>
-<img width="1660" alt="Screenshot 2023-02-13 at 4 49 55 PM" src="https://user-images.githubusercontent.com/110639779/218582592-4c1670fc-5560-46fe-899d-c8d6032e91cf.png">
-https://github.com/bodhichristian/AskAI
-
 <b>Project Gallery </b>
-![1500x500](https://user-images.githubusercontent.com/110639779/212133514-741c5a13-60f2-4e57-bcff-9439ed9d2b25.jpeg)
+
+![big showcase spring 23 001](https://user-images.githubusercontent.com/110639779/226935253-10dd88c2-0cfa-4808-9a80-527a7ae32e10.jpeg)
 
 
