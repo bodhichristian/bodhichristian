@@ -6,7 +6,8 @@
 As an iPad user curious about programming for Apple systems, my development journey began in 2020 with Swift Playgrounds. Soon after, I became interested in learning to develop full feature apps, and worked through #100DaysofSwiftUI via hackingwithswift.com. Currently, I'm working towards certifying my iOS Development skills through Coursera, and building apps that challenge the skills I've learned so far.
 
 
-<b>Featured App </b>
+<b>Featured App: AskAI </b>
+https://github.com/bodhichristian/AskAI
 <img width="1660" alt="Screenshot 2023-02-13 at 4 49 55 PM" src="https://user-images.githubusercontent.com/110639779/226939618-4b5513e5-8f60-4e86-85a0-9685d3cd2e1e.png">
 
 
