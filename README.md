@@ -12,7 +12,7 @@ https://github.com/bodhichristian/AskAI
 <img width="1660" alt="Screenshot 2023-02-13 at 4 49 55 PM" src="https://user-images.githubusercontent.com/110639779/226939618-4b5513e5-8f60-4e86-85a0-9685d3cd2e1e.png">
 
 
-<b>Project Gallery </b>
+<b>App Gallery </b>
 
 ![big showcase spring 23 001](https://user-images.githubusercontent.com/110639779/226939118-7c64ecc5-9297-4536-bb55-747766773d79.jpeg)
 
@@ -24,3 +24,5 @@ https://github.com/bodhichristian/AskAI
 
 👨🏻‍💻 Working with Data in iOS, Course 7 of 12 in a Meta iOS Professional Developer Certificate offered through Coursera.
 https://www.coursera.org/professional-certificates/meta-ios-developer
+
+![50% 001](https://user-images.githubusercontent.com/110639779/227030915-e09878ad-33ad-4da3-9e46-d2b630f9b0e6.jpeg)
