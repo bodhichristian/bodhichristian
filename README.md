@@ -3,7 +3,7 @@
 <b>Welcome.</b>
 
 
-As an iPad user curious about programming for Apple systems, my development journey began in 2020 with Swift Playgrounds. Soon after, I became interested in learning to develop full feature apps, and worked through #100DaysofSwiftUI via hackingwithswift.com. Currently, I'm working towards certifying my iOS Development skills through Coursera, and building apps that challenge the skills I've learned so far.
+As an iPad user curious about programming for Apple systems, my development journey began in 2020 with Swift Playgrounds. Soon after, I became interested in learning to develop full feature apps, and worked through #100DaysofSwiftUI via hackingwithswift.com. Currently, I'm working towards certifying my iOS Development skills via Coursera, and building apps that challenge the skills I've learned so far.
 
 
 <b>Featured App: AskAI </b>
