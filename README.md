@@ -7,7 +7,7 @@ As an iPad user curious about programming for Apple systems, my development jour
 
 <b>Current Focus: TwitterClone </b>
 ![TwitterClone Showcase 001](https://user-images.githubusercontent.com/110639779/234390630-be0f102f-ad53-43ee-a1d3-e435638e3805.jpeg)
-
+https://github.com/bodhichristian/TwitterClone
 
 <b>Featured App: AskAI </b>
 
