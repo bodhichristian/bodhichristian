@@ -21,10 +21,10 @@ https://github.com/bodhichristian/TwitterClone
 
 <b>Current learning path:</b>
 
-🟩🟩🟩🟩🟩🟩🟩⬛️⬛️⬛️⬛️⬛️
+🟩🟩🟩🟩🟩🟩🟩🟩⬛️⬛️⬛️⬛️
 
 
-👨🏻‍💻 Working with Data in iOS, Course 7 of 12 in a Meta iOS Professional Developer Certificate offered through Coursera.
+👨🏻‍💻 Mobile Development and JavaScript, Course 8 of 12 in a Meta iOS Professional Developer Certificate offered through Coursera.
 https://www.coursera.org/professional-certificates/meta-ios-developer
 
 ![50% 001](https://user-images.githubusercontent.com/110639779/227030915-e09878ad-33ad-4da3-9e46-d2b630f9b0e6.jpeg)
