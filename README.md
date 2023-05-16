@@ -3,7 +3,7 @@
 <b>Welcome.</b>
 
 
-As an iPad user curious about programming for Apple systems, my development journey began in 2020 with Swift Playgrounds. Soon after, I became interested in learning to develop full feature apps, and worked through #100DaysofSwiftUI via hackingwithswift.com. Currently, I'm working towards certifying my iOS Development skills via Coursera, and building apps that challenge the skills I've learned so far.
+As an iPad user curious about programming for Apple systems, my development journey began in 2020 with Swift Playgrounds. My hobby became passion, and soon after I became interested in learning to develop full feature apps. I completed #100DaysofSwiftUI via hackingwithswift.com at the end of 2022, and currently, I'm working towards certifying my iOS Development skills via Coursera. To support my formal learning, I practice building apps that challenge the skills I've learned so far.
 
 <b>Current Focus: TwitterClone </b>
 ![twitterclone showcase 5-15-23](https://github.com/bodhichristian/bodhichristian/assets/110639779/d64d7595-e63a-4390-84b4-7cec04d3f725)
