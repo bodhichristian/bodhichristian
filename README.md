@@ -1,8 +1,8 @@
 ### Christian Lavelle 👨🏻‍💻
 
 <b>Welcome.</b>
-Follow along as I build iOS apps with Swift and SwiftUI. 
 
+Follow along as I build iOS apps with Swift and SwiftUI. 
 Feel free to reach out with questions, comments, or just to say 👋🏼 hello. 
 
 
