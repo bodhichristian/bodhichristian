@@ -2,10 +2,8 @@
 
 <b>Welcome.</b>
 
+Follow along as I build iOS apps with Swift and SwiftUI. Feel free to reach out with questions, comments, or just to say 👋🏼 hello. 
 
-As an iPad user curious about programming for Apple systems, my development journey began in 2020 with Swift Playgrounds. My hobby became passion, and I soon became interested in learning to develop full feature apps. After completing #100DaysofSwiftUI via hackingwithswift.com, I've begun certifying my iOS Development skills via Coursera. To supplement my formal learning, I practice building apps that challenge the skills I've built so far, and post my progress here.
-
-Feel free to say hi 👋🏼
 
 <b>Currently building: TwitterClone </b>
 ![TwitterClone Showcase May 23 single image 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/d68362ab-16f2-4e6e-91aa-dc0b09c723d0)
