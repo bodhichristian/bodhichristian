@@ -8,7 +8,8 @@ As an iPad user curious about programming for Apple systems, my development jour
 Feel free to say hi 👋🏼
 
 <b>Current Focus: TwitterClone </b>
-![twitterclone showcase 5-15-23](https://github.com/bodhichristian/bodhichristian/assets/110639779/d64d7595-e63a-4390-84b4-7cec04d3f725)
+![TwitterClone Showcase May 23 single image 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/d68362ab-16f2-4e6e-91aa-dc0b09c723d0)
+
 
 https://github.com/bodhichristian/TwitterClone
 
