@@ -2,8 +2,8 @@
 
 ### Welcome.
 
-Follow along as I build iOS apps with Swift and SwiftUI. 
-Feel free to reach out with questions, comments, or just to say 👋🏼 hello. 
+> Follow along as I build iOS apps with Swift and SwiftUI. 
+> Feel free to reach out with questions, comments, or just to say 👋🏼 hello. 
 
 ## Featured App: AskAI
 ![GitHub forks](https://img.shields.io/github/forks/bodhichristian/askai?style=for-the-badge) ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/askai?style=for-the-badge)  
