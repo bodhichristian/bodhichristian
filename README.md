@@ -11,11 +11,11 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 
 [AskAI](https://github.com/bodhichristian/AskAI) provides an approachable, native experience for generating text with ChatGPT and images with DALL·E.
 <img width="1660" alt="Screenshot 2023-02-13 at 4 49 55 PM" src="https://user-images.githubusercontent.com/110639779/226939618-4b5513e5-8f60-4e86-85a0-9685d3cd2e1e.png">
-![GitHub forks](https://img.shields.io/github/forks/bodhichristian/askai?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/askai?style=social)
+# ![GitHub forks](https://img.shields.io/github/forks/bodhichristian/askai?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/askai?style=social)
 
 ## Currently building: TwitterClone 
 [TwitterClone](https://github.com/bodhichristian/TwitterClone) uses SwiftUI and Firebase to recreate the social media platform
-![TwitterClone Showcase May 23 single image 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/d68362ab-16f2-4e6e-91aa-dc0b09c723d0)
+# ![TwitterClone Showcase May 23 single image 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/d68362ab-16f2-4e6e-91aa-dc0b09c723d0)
 ![GitHub forks](https://img.shields.io/github/forks/bodhichristian/twitterclone?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/twitterclone?style=social)
 
 ## App Gallery
