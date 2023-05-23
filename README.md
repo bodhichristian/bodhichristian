@@ -1,4 +1,4 @@
-# Christian Lavelle 👨🏻‍💻
+# Christian Lavelle 👨🏻‍💻 ![Twitter Follow](https://img.shields.io/twitter/follow/bodhichristian?style=for-the-badge)
 
 ### Welcome.
 
