@@ -16,6 +16,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 ## Currently building: TwitterClone 
 [TwitterClone](https://github.com/bodhichristian/TwitterClone) uses SwiftUI and Firebase to recreate the social media platform
 ![TwitterClone Showcase May 23 single image 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/d68362ab-16f2-4e6e-91aa-dc0b09c723d0)
+![GitHub forks](https://img.shields.io/github/forks/bodhichristian/twitterclone?style=for-the-badge) ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/twitterclone?style=for-the-badge)
 
 ## App Gallery
 [View repositories](https://github.com/bodhichristian?tab=repositories)
