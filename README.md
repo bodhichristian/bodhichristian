@@ -32,5 +32,3 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 ![Certficate Showcase May 23 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/e185fc5e-6200-4e83-b9ea-1a83a649a4eb)
 
 
-![Certficate Showcase 7 001](https://user-images.githubusercontent.com/110639779/236373628-3b4d7f43-eafb-48f0-a165-c3bbb2aaea23.jpeg)
-
