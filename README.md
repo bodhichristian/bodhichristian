@@ -20,7 +20,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 
 ## App Gallery
 [View repositories](https://github.com/bodhichristian?tab=repositories)
-![big showcase spring 23 001](https://user-images.githubusercontent.com/110639779/226939118-7c64ecc5-9297-4536-bb55-747766773d79.jpeg)
+![big showcase 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/3d7acc06-49eb-48f6-9ebf-119d6e771ce2)
 
 
 ### Current learning path:
