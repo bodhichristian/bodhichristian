@@ -12,7 +12,7 @@ Feel free to reach out with questions, comments, or just to say 👋🏼 hello.
 ![GitHub forks](https://img.shields.io/github/forks/bodhichristian/askai?style=for-the-badge) ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/askai?style=for-the-badge)  
 
 ## Currently building: TwitterClone 
-https://github.com/bodhichristian/TwitterClone
+[TwitterClone](https://github.com/bodhichristian/TwitterClone) uses SwiftUI and Firebase to recreate the social media platform
 ![TwitterClone Showcase May 23 single image 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/d68362ab-16f2-4e6e-91aa-dc0b09c723d0)
 
 ## App Gallery
