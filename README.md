@@ -16,7 +16,7 @@ Feel free to reach out with questions, comments, or just to say 👋🏼 hello.
 ![TwitterClone Showcase May 23 single image 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/d68362ab-16f2-4e6e-91aa-dc0b09c723d0)
 
 ## App Gallery
-https://github.com/bodhichristian?tab=repositories
+[View repositories](https://github.com/bodhichristian?tab=repositories)
 ![big showcase spring 23 001](https://user-images.githubusercontent.com/110639779/226939118-7c64ecc5-9297-4536-bb55-747766773d79.jpeg)
 
 
@@ -25,8 +25,8 @@ https://github.com/bodhichristian?tab=repositories
 🟩🟩🟩🟩🟩🟩🟩🟩⬛️⬛️⬛️⬛️
 
 
-👨🏻‍💻 <b>Mobile Development and JavaScript</b> - Course 8 of 12 in a Meta iOS Professional Developer Certificate offered through Coursera.
-https://www.coursera.org/professional-certificates/meta-ios-developer
+👨🏻‍💻 <b>Mobile Development and JavaScript</b> - Course 8 of 12 in a Meta iOS Professional Developer Certificate offered through [Coursera](https://www.coursera.org/professional-certificates/meta-ios-developer).
+
 
 ![Certficate Showcase 7 001](https://user-images.githubusercontent.com/110639779/236373628-3b4d7f43-eafb-48f0-a165-c3bbb2aaea23.jpeg)
 
