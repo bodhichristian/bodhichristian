@@ -12,7 +12,7 @@ https://github.com/bodhichristian/TwitterClone
 
 
 ## Featured App: AskAI
-![GitHub forks](https://img.shields.io/github/forks/{bodhichristian}/{askai}?style=social)
+![GitHub forks](https://img.shields.io/github/forks/{bodhichristian}/{AskAi}?style=social)
 https://github.com/bodhichristian/AskAI
 <img width="1660" alt="Screenshot 2023-02-13 at 4 49 55 PM" src="https://user-images.githubusercontent.com/110639779/226939618-4b5513e5-8f60-4e86-85a0-9685d3cd2e1e.png">
 
