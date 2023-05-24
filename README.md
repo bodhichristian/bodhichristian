@@ -7,8 +7,6 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
   
 ![Twitter Follow](https://img.shields.io/twitter/follow/bodhichristian?style=social)  
 
-<a href=“https://twitter.com/bodhichristian”>![Twitter Follow](#)</a>
-
 ## Featured App: AskAI
 
 [AskAI](https://github.com/bodhichristian/AskAI) provides an approachable, native experience for generating text with ChatGPT and images with DALL·E.
