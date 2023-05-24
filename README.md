@@ -7,7 +7,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
   
 ![Twitter Follow](https://img.shields.io/twitter/follow/bodhichristian?style=social)  
 
-<a href=“https://twitter.com/bodhichristian”>![Twitter Follow](https://img.shields.io/twitter/follow/bodhichristian?style=social)</a>
+<a href=“https://twitter.com/bodhichristian”>![Twitter Follow](#)</a>
 
 ## Featured App: AskAI
 
