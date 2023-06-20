@@ -9,12 +9,12 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 
 ## Featured App: AskAI
 
-[AskAI](https://github.com/bodhichristian/AskAI) provides an approachable, native experience for generating text with ChatGPT and images with DALL·E.
+-[AskAI](https://github.com/bodhichristian/AskAI) provides an approachable, native experience for generating text with ChatGPT and images with DALL·E.
 ![AskAI Showcase May 23 008](https://github.com/bodhichristian/bodhichristian/assets/110639779/e3204054-2726-49ac-8aa3-c13e8648ac28)
 ![GitHub forks](https://img.shields.io/github/forks/bodhichristian/askai?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/askai?style=social)
 
 ## Currently building: Stubs 
---[Stubs](https://github.com/bodhichristian/Stubs) uses SwiftUI and SwiftData to store digital stubs for concerts you've attended.
+-[Stubs](https://github.com/bodhichristian/Stubs) uses SwiftUI and SwiftData to store digital stubs for concerts you've attended.
 ![‎Stubs Showcase ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/69b4365c-9371-4e38-a26d-2e387804860a)
 
 
