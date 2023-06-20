@@ -14,7 +14,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 ![GitHub forks](https://img.shields.io/github/forks/bodhichristian/askai?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/askai?style=social)
 
 ## Currently building: Stubs 
-**[Stubs](https://github.com/bodhichristian/Stubs) uses SwiftUI and SwiftData to store digital stubs for concerts you've attended.
+--[Stubs](https://github.com/bodhichristian/Stubs) uses SwiftUI and SwiftData to store digital stubs for concerts you've attended.
 ![‎Stubs Showcase ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/69b4365c-9371-4e38-a26d-2e387804860a)
 
 
