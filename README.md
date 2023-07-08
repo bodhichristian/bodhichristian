@@ -34,11 +34,8 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 
 
 ### Current learning path:
+👨🏻‍💻 <b>Mobile Development and JavaScript</b>
+🟩🟩🟩🟩🟩🟩🟩🟩⬛️⬛️⬛️⬛️ Course 8 of 12 in a Meta iOS Professional Developer Certificate
 
-🟩🟩🟩🟩🟩🟩🟩🟩⬛️⬛️⬛️⬛️
-
-
-👨🏻‍💻 <b>Mobile Development and JavaScript</b> - Course 8 of 12 in a Meta iOS Professional Developer Certificate offered through Coursera
-![Certficate Showcase May 23 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/e185fc5e-6200-4e83-b9ea-1a83a649a4eb)
-
+![‎Certficate Showcase ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/6c7b4f2f-22d0-4959-81cc-cbdf58eb8248)
 
