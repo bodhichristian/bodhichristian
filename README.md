@@ -1,6 +1,3 @@
-# Christian Lavelle 👨🏻‍💻 
-
-
 ![‎GitHub Banner ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/21d9c4ce-a49f-4aa4-9845-d51276e71a13)
 
 ### Welcome.
