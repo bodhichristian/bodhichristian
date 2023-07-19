@@ -1,9 +1,9 @@
 # Christian Lavelle 👨🏻‍💻 
 
-### Welcome.
 
 ![‎GitHub Banner ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/21d9c4ce-a49f-4aa4-9845-d51276e71a13)
 
+### Welcome.
 
 Follow along as I build iOS apps with Swift and SwiftUI.  
 Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.  
