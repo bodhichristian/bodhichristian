@@ -28,6 +28,6 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 👨🏻‍💻 <b>Mobile Development and JavaScript</b>  
 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 ⬛️ ⬛️ ⬛️ ⬛️  
 Meta iOS Professional Developer Certificate: 8 of 12 courses complete ✅
+![‎Certficate Showcase transparent ‎002](https://github.com/bodhichristian/bodhichristian/assets/110639779/0a6a2db3-0d38-47fd-97e8-98a0fb518c03)
 
-![‎Certficate Showcase ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/6c7b4f2f-22d0-4959-81cc-cbdf58eb8248)
 
