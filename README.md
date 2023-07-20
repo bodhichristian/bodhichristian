@@ -22,7 +22,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 
 ## Recent build: TwitterClone 
 * [TwitterClone](https://github.com/bodhichristian/TwitterClone) uses SwiftUI and Firebase to deliver the Twitter experience.
-* 
+
 ![‎twitter transparent ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/ed91fe22-a9ab-4243-a1ff-70f543a1439f)
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/twitterclone) 
 
