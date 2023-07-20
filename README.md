@@ -1,6 +1,5 @@
-![‎GitHub Banner ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/cb2660ec-43cb-4485-b385-01881b647130)
-## Welcome![Uploading ‎GitHub Banner.‎001.png…]()
-.
+![‎GitHub Banner ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/384b6b4c-2493-4975-985a-66110e115167)
+## Welcome
 Follow along as I build 📱 iOS apps with Swift and SwiftUI.  
 Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.  
   
