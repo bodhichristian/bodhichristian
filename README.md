@@ -5,8 +5,8 @@ Follow along as I build 📱 iOS apps with Swift and SwiftUI.
 Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.  
   
 
-## Featured App: AskAI ![GitHub forks](https://img.shields.io/github/forks/bodhichristian/askai)![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/askai)
-
+## Featured App: AskAI 
+![GitHub forks](https://img.shields.io/github/forks/bodhichristian/askai)![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/askai)
 * [AskAI](https://github.com/bodhichristian/AskAI) provides an approachable, native experience for generating text with ChatGPT and images with DALL·E.
   
 ![‎AskAI Showcase transparent ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/162dc654-4342-4cdf-8e04-3a68e8a30723)
