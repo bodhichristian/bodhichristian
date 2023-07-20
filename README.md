@@ -5,7 +5,6 @@
 Follow along as I build iOS apps with Swift and SwiftUI.  
 Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.  
   
-![Twitter Follow](https://img.shields.io/twitter/follow/bodhichristian?style=social)  
 
 ## Featured App: AskAI
 
