@@ -2,7 +2,7 @@
 ![‎GitHub Banner ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/86f59e58-cf2c-44ff-9579-586d0c22d864)
 
 ## Welcome.
-Follow along as I build iOS apps with ![155759319-69ca0edf-36dd-4d9d-b7a8-1074b2112e29](https://github.com/bodhichristian/bodhichristian/assets/110639779/7986d986-8c4c-4cce-8f21-7b066eccd6f4)
+Follow along as I build iOS apps with <img src="[IMAGE_URL](https://user-images.githubusercontent.com/59176579/155759319-69ca0edf-36dd-4d9d-b7a8-1074b2112e29.png)" alt="Image Description" width="10" height="10">
 Swift and SwiftUI.  
 Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.  
   
