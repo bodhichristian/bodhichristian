@@ -25,12 +25,6 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 ![‎twitter transparent ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/ed91fe22-a9ab-4243-a1ff-70f543a1439f)
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/twitterclone) 
 
-
-## App Gallery
-[View repositories](https://github.com/bodhichristian?tab=repositories)
-![big showcase 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/3d7acc06-49eb-48f6-9ebf-119d6e771ce2)
-
-
 ### Current learning path:
 👨🏻‍💻 <b>Mobile Development and JavaScript</b>  
 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 ⬛️ ⬛️ ⬛️ ⬛️  
