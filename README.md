@@ -10,7 +10,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 
 * [AskAI](https://github.com/bodhichristian/AskAI) provides an approachable, native experience for generating text with ChatGPT and images with DALL·E.
 
-![AskAI Showcase May 23 008](https://github.com/bodhichristian/bodhichristian/assets/110639779/e3204054-2726-49ac-8aa3-c13e8648ac28)
+![‎AskAI Showcase transparent ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/ec20e6e1-ea40-4c4a-a747-599867aded54)
 ![GitHub forks](https://img.shields.io/github/forks/bodhichristian/askai)![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/askai)
 
 
