@@ -25,7 +25,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 
 
 ### Current learning path:
-<b>Meta iOS Professional Developer Certificate</b>
+<b>Meta iOS Professional Developer Certificate</b>  
 👨🏻‍💻 <b>Mobile Development and JavaScript</b>  
 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 ⬛️ ⬛️ ⬛️ ⬛️  
 8 of 12 courses complete ✅
