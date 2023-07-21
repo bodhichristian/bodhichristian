@@ -15,7 +15,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 ## 👨🏻‍💻 Currently building: Stubs 
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/stubs)
 * [Stubs](https://github.com/bodhichristian/Stubs) uses SwiftUI and SwiftData to store digital stubs for concerts you've attended. It serves as a playground for updated iOS 17 features.
-![‎Stubs Showcase ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/e8bbe95e-168a-44f2-bfd9-ddbeb8d3e077)
+![‎Stubs Showcase ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/834e84b7-7f9c-48aa-b10c-314cc2e3d100)
 
 
 ## 🕥 Recent build: TwitterClone 
