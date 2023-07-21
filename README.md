@@ -14,7 +14,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 ## Currently building: Stubs 
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/stubs)
 * [Stubs](https://github.com/bodhichristian/Stubs) uses SwiftUI and SwiftData to store digital stubs for concerts you've attended. It serves as a playground for updated iOS 17 features.
-![‎Stubs Showcase ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/1353df99-0b8f-4404-b77c-76eb0d0dd194)
+![‎Stubs Showcase ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/e8bbe95e-168a-44f2-bfd9-ddbeb8d3e077)
 
 
 ## Recent build: TwitterClone 
@@ -25,9 +25,10 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 
 
 ### Current learning path:
+<b>Meta iOS Professional Developer Certificate</b>
 👨🏻‍💻 <b>Mobile Development and JavaScript</b>  
 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 ⬛️ ⬛️ ⬛️ ⬛️  
-Meta iOS Professional Developer Certificate: 8 of 12 courses complete ✅
+8 of 12 courses complete ✅
 ![‎Certficate Showcase transparent ‎002](https://github.com/bodhichristian/bodhichristian/assets/110639779/0a6a2db3-0d38-47fd-97e8-98a0fb518c03)
 
 
