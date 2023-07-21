@@ -24,9 +24,9 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 ![‎twitter transparent ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/ed91fe22-a9ab-4243-a1ff-70f543a1439f)
 
 
-### Current learning path:
+### 📚 Current learning path:
 <b>Meta iOS Professional Developer Certificate</b>  
-👨🏻‍💻 <b>Mobile Development and JavaScript</b>  
+<b>Mobile Development and JavaScript</b>  
 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 ⬛️ ⬛️ ⬛️ ⬛️  
 8 of 12 courses complete ✅
 ![‎Certficate Showcase transparent ‎002](https://github.com/bodhichristian/bodhichristian/assets/110639779/0a6a2db3-0d38-47fd-97e8-98a0fb518c03)
