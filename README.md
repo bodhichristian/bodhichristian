@@ -4,20 +4,20 @@ Follow along as I build 📱 iOS apps with Swift and SwiftUI.
 Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.  
   
 
-## Featured App: AskAI 
+## 📱 Featured App: AskAI 
 ![GitHub forks](https://img.shields.io/github/forks/bodhichristian/askai) ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/askai)
 * [AskAI](https://github.com/bodhichristian/AskAI) provides an approachable, native experience for generating text with ChatGPT and images with DALL·E.
   
 ![‎AskAI Showcase transparent ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/162dc654-4342-4cdf-8e04-3a68e8a30723)
 
 
-## Currently building: Stubs 
+## 👨🏻‍💻 Currently building: Stubs 
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/stubs)
 * [Stubs](https://github.com/bodhichristian/Stubs) uses SwiftUI and SwiftData to store digital stubs for concerts you've attended. It serves as a playground for updated iOS 17 features.
 ![‎Stubs Showcase ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/e8bbe95e-168a-44f2-bfd9-ddbeb8d3e077)
 
 
-## Recent build: TwitterClone 
+## 🕥 Recent build: TwitterClone 
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/twitterclone) 
 * [TwitterClone](https://github.com/bodhichristian/TwitterClone) uses SwiftUI and Firebase to deliver the Twitter experience.
   
