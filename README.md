@@ -45,7 +45,15 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 <b>Meta iOS Professional Developer Certificate</b>  
 📖 Mobile Development and JavaScript  
 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 ⬛️ ⬛️ ⬛️ ⬛️  
-8 of 12 courses complete ✅
+8 of 12 courses complete ✅  
+  
+  
+![Static Badge](https://img.shields.io/badge/Version_Control-gray)
+![Static Badge](https://img.shields.io/badge/UX/UI_Design_Principles-gray)
+![Static Badge](https://img.shields.io/badge/Figma-gray)
+
+
+
 ![‎Certficate Showcase transparent ‎002](https://github.com/bodhichristian/bodhichristian/assets/110639779/0a6a2db3-0d38-47fd-97e8-98a0fb518c03)
 
 
