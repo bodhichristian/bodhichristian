@@ -11,7 +11,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 ![Static Badge](https://img.shields.io/badge/MapKit-green)
 ![Static Badge](https://img.shields.io/badge/YouTubeKit-red)
 
-* [Stubs](https://github.com/bodhichristian/Stubs) uses SwiftUI and SwiftData to store digital stubs for attended concerts. It serves as a playground for featuresa announced at WWDC23.
+* [Stubs](https://github.com/bodhichristian/Stubs) uses SwiftData to store digital stubs for attended concerts. It serves as a playground for features announced at WWDC23.
 * Users may view their concert stubs on a map with MapKit updates for SwiftUI, or query for YouTube with a concert's details.
    
 ![‎Stubs Showcase ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/046668df-0174-4297-966f-2c802da06bc9)
