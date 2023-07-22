@@ -19,7 +19,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 
 
 ## 📱 Featured App: AskAI 
-![GitHub forks](https://img.shields.io/github/forks/bodhichristian/askai) ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/askai)  
+![GitHub forks](https://img.shields.io/github/forks/bodhichristian/askai) ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/askai)
 
 ![Static Badge](https://img.shields.io/badge/Swift-orange)
 ![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
