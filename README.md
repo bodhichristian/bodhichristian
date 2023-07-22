@@ -6,9 +6,9 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 ## 👨🏻‍💻 Currently building: Stubs 
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/stubs)
 ![Static Badge](https://img.shields.io/badge/Swift-orange)
-![Static Badge](https://img.shields.io/badge/SwiftUI-gray)
-![Static Badge](https://img.shields.io/badge/SwiftData-gray)
-![Static Badge](https://img.shields.io/badge/MapKit-gray)
+![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
+![Static Badge](https://img.shields.io/badge/SwiftData-orange)
+![Static Badge](https://img.shields.io/badge/MapKit-green)
 ![Static Badge](https://img.shields.io/badge/YouTubeKit-red)
 
 * [Stubs](https://github.com/bodhichristian/Stubs) uses SwiftUI and SwiftData to store digital stubs for concerts you've attended. It serves as a playground for updated iOS 17 features.
