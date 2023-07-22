@@ -18,7 +18,8 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 
 
 ## 📱 Featured App: AskAI 
-![GitHub forks](https://img.shields.io/github/forks/bodhichristian/askai) ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/askai)
+![GitHub forks](https://img.shields.io/github/forks/bodhichristian/askai)
+![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/askai)
 ![Static Badge](https://img.shields.io/badge/Swift-orange)
 ![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
 ![Static Badge](https://img.shields.io/badge/OpenAI_API-gray)
@@ -28,14 +29,12 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
   
 ![‎AskAI Showcase 1 ‎009](https://github.com/bodhichristian/bodhichristian/assets/110639779/f38119cb-1e72-4799-8aa0-491085697c46)
 
-
-* [AskAI](https://github.com/bodhichristian/AskAI) provides an approachable, native experience for generating text with ChatGPT and images with DALL·E.
-  
-![‎AskAI Showcase 1 ‎009](https://github.com/bodhichristian/bodhichristian/assets/110639779/f38119cb-1e72-4799-8aa0-491085697c46)
-
-
 ## 🕥 Recent build: TwitterClone 
-![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/twitterclone) 
+![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/twitterclone)
+![Static Badge](https://img.shields.io/badge/Swift-orange)
+![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
+![Static Badge](https://img.shields.io/badge/Firebase-red)
+
 * [TwitterClone](https://github.com/bodhichristian/TwitterClone) uses SwiftUI and Firebase to deliver the Twitter experience.
   
 ![‎twitter transparent ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/ed91fe22-a9ab-4243-a1ff-70f543a1439f)
