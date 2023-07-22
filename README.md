@@ -6,10 +6,9 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
   
 
 ## 📱 Featured App: AskAI 
-![‎AskAI Showcase 1 ‎009](https://github.com/bodhichristian/bodhichristian/assets/110639779/f38119cb-1e72-4799-8aa0-491085697c46)
 * [AskAI](https://github.com/bodhichristian/AskAI) provides an approachable, native experience for generating text with ChatGPT and images with DALL·E.
   
-![‎AskAI Showcase transparent ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/162dc654-4342-4cdf-8e04-3a68e8a30723)
+![‎AskAI Showcase 1 ‎009](https://github.com/bodhichristian/bodhichristian/assets/110639779/f38119cb-1e72-4799-8aa0-491085697c46)
 
 
 ## 👨🏻‍💻 Currently building: Stubs 
