@@ -44,9 +44,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 ## 📚 Current learning path:
 <b>Meta iOS Professional Developer Certificate</b>  
 📖 Mobile Development and JavaScript  
-🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 ⬛️ ⬛️ ⬛️ ⬛️  
-8 of 12 courses complete ✅  
-  
+🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 ⬛️ ⬛️ ⬛️ ⬛️  8 of 12 courses complete ✅  
   
 ![Static Badge](https://img.shields.io/badge/UX/UI_Design_Principles-blue)
 ![Static Badge](https://img.shields.io/badge/Figma-blue)  
