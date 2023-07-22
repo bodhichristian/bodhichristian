@@ -4,7 +4,11 @@ Follow along as I build iOS apps with Swift and SwiftUI.
 Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.  
 
 ## 👨🏻‍💻 Currently building: Stubs 
-![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/stubs)
+![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/stubs)![Static Badge](https://img.shields.io/badge/Swift-orange)
+![Static Badge](https://img.shields.io/badge/SwiftUI-black)
+![Static Badge](https://img.shields.io/badge/MapKit-black)
+![Static Badge](https://img.shields.io/badge/YouTubeKit-gray)
+
 * [Stubs](https://github.com/bodhichristian/Stubs) uses SwiftUI and SwiftData to store digital stubs for concerts you've attended. It serves as a playground for updated iOS 17 features.
 * Users may view their concert stubs on a map with MapKit updates for SwiftUI, or query for YouTube with a concert's details.
    
