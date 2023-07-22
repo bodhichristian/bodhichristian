@@ -54,6 +54,8 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 ![Static Badge](https://img.shields.io/badge/Core_Data-blue)  
 ![Static Badge](https://img.shields.io/badge/Version_Control-blue)
 ![Static Badge](https://img.shields.io/badge/JavaScript-blue)
+![Static Badge](https://img.shields.io/badge/Functional_Programming-blue)
+![Static Badge](https://img.shields.io/badge/OOP-blue)
 
 ![‎Certficate Showcase transparent ‎002](https://github.com/bodhichristian/bodhichristian/assets/110639779/0a6a2db3-0d38-47fd-97e8-98a0fb518c03)
 
