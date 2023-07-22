@@ -35,7 +35,8 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 ![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
 ![Static Badge](https://img.shields.io/badge/Firebase-red)
 
-* [TwitterClone](https://github.com/bodhichristian/TwitterClone) uses SwiftUI and Firebase to deliver the Twitter experience.
+* [TwitterClone](https://github.com/bodhichristian/TwitterClone) uses SwiftUI to recreate the early 2023 Twitter experience.
+* The app uses Firebase for registration/authentication and databasing
   
 ![‎twitter transparent ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/ed91fe22-a9ab-4243-a1ff-70f543a1439f)
 
