@@ -48,7 +48,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 <b>8</b> of <b>12</b> courses complete ✅  
   
 ![Static Badge](https://img.shields.io/badge/UX/UI_Design_Principles-blue)
-![Static Badge](https://img.shields.io/badge/Figma-blue)  
+![Static Badge](https://img.shields.io/badge/Figma-blue)
 ![Static Badge](https://img.shields.io/badge/HTTP-blue)
 ![Static Badge](https://img.shields.io/badge/REST_APIs-blue)
 ![Static Badge](https://img.shields.io/badge/Core_Data-blue)  
