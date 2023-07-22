@@ -23,6 +23,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 ![Static Badge](https://img.shields.io/badge/Swift-orange)
 ![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
 ![Static Badge](https://img.shields.io/badge/OpenAI_API-gray)
+![Static Badge](https://img.shields.io/badge/MVVM-gray)
 
 
 * [AskAI](https://github.com/bodhichristian/AskAI) provides an approachable, native experience for generating text with ChatGPT and images with DALL·E.
@@ -34,6 +35,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 ![Static Badge](https://img.shields.io/badge/Swift-orange)
 ![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
 ![Static Badge](https://img.shields.io/badge/Firebase-red)
+![Static Badge](https://img.shields.io/badge/MVVM-gray)
 
 * [TwitterClone](https://github.com/bodhichristian/TwitterClone) uses SwiftUI to recreate the early 2023 Twitter experience.
 * The app uses Firebase for registration/authentication and databasing
