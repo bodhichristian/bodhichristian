@@ -48,13 +48,13 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 8 of 12 courses complete ✅  
   
   
-![Static Badge](https://img.shields.io/badge/UX/UI_Design_Principles-gray)
-![Static Badge](https://img.shields.io/badge/Figma-gray)  
-![Static Badge](https://img.shields.io/badge/HTTP-gray)
-![Static Badge](https://img.shields.io/badge/REST_APIs-gray)
-![Static Badge](https://img.shields.io/badge/Core_Data-gray)  
-![Static Badge](https://img.shields.io/badge/Version_Control-gray)
-![Static Badge](https://img.shields.io/badge/JavaScript-gray)
+![Static Badge](https://img.shields.io/badge/UX/UI_Design_Principles-blue)
+![Static Badge](https://img.shields.io/badge/Figma-blue)  
+![Static Badge](https://img.shields.io/badge/HTTP-blue)
+![Static Badge](https://img.shields.io/badge/REST_APIs-blue)
+![Static Badge](https://img.shields.io/badge/Core_Data-blue)  
+![Static Badge](https://img.shields.io/badge/Version_Control-blue)
+![Static Badge](https://img.shields.io/badge/JavaScript-blue)
 
 ![‎Certficate Showcase transparent ‎002](https://github.com/bodhichristian/bodhichristian/assets/110639779/0a6a2db3-0d38-47fd-97e8-98a0fb518c03)
 
