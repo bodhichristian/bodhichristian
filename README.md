@@ -6,8 +6,8 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 ## 👨🏻‍💻 Currently building: Stubs 
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/stubs)
 ![Static Badge](https://img.shields.io/badge/Swift-orange)
-![Static Badge](https://img.shields.io/badge/SwiftData-gray)
 ![Static Badge](https://img.shields.io/badge/SwiftUI-gray)
+![Static Badge](https://img.shields.io/badge/SwiftData-gray)
 ![Static Badge](https://img.shields.io/badge/MapKit-gray)
 ![Static Badge](https://img.shields.io/badge/YouTubeKit-gray)
 
