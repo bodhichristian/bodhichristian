@@ -3,16 +3,6 @@
 Follow along as I build iOS apps with Swift and SwiftUI.  
 Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.  
 
-## 👨🏻‍💻 Currently building: Weathered 
-![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/weathered)
-![Static Badge](https://img.shields.io/badge/Swift-orange)
-![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
-![Static Badge](https://img.shields.io/badge/WeatherAPI.com-blue)
-![Static Badge](https://img.shields.io/badge/JSON_Decoding-red)
-
-* [Weathered]([https://github.com/bodhichristian/Stubs](https://github.com/bodhichristian/Weathered)) uses SwiftUI and data from WeatherAPI.com to present users with current weather conditions for a given city.
-   
-![‎Weathered App Showcase ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/b2650e74-71ae-45e7-a0d5-a936142bff57)
 
 
 ## 📱 Featured App: AskAI 
@@ -27,6 +17,20 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 * [AskAI](https://github.com/bodhichristian/AskAI) provides an approachable, native experience for generating text with ChatGPT and images with DALL·E.
   
 ![‎AskAI Showcase 1 ‎009](https://github.com/bodhichristian/bodhichristian/assets/110639779/f38119cb-1e72-4799-8aa0-491085697c46)
+
+
+## 👨🏻‍💻 Currently building: Weathered 
+![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/weathered)
+![Static Badge](https://img.shields.io/badge/Swift-orange)
+![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
+![Static Badge](https://img.shields.io/badge/WeatherAPI.com-blue)
+![Static Badge](https://img.shields.io/badge/JSON_Decoding-red)
+
+* [Weathered]([https://github.com/bodhichristian/Stubs](https://github.com/bodhichristian/Weathered)) uses SwiftUI and data from WeatherAPI.com to present users with current weather conditions for a given city.
+   
+![‎Weathered App Showcase ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/b2650e74-71ae-45e7-a0d5-a936142bff57)
+
+
 
 ## 🕥 Recent Build: Stubs:  A WWDC23 Feature Testing App
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/stubs)
