@@ -23,7 +23,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/weathered)
 ![Static Badge](https://img.shields.io/badge/Swift-orange)
 ![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
-![Static Badge](https://img.shields.io/badge/WeatherAPI.com-blue)
+![Static Badge](https://img.shields.io/badge/WeatherAPI-blue)
 ![Static Badge](https://img.shields.io/badge/JSON_Decoding-red)
 
 * [Weathered]([https://github.com/bodhichristian/Stubs](https://github.com/bodhichristian/Weathered)) uses SwiftUI and data from WeatherAPI.com to present users with current weather conditions for a given city.
