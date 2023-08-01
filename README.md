@@ -26,7 +26,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 ![Static Badge](https://img.shields.io/badge/WeatherAPI-gray)
 ![Static Badge](https://img.shields.io/badge/MVVM-gray)
 
-* [Weathered]([https://github.com/bodhichristian/Stubs](https://github.com/bodhichristian/Weathered)) uses SwiftUI and data from WeatherAPI.com to present users with current weather conditions for a given city.
+* [Weathered](https://github.com/bodhichristian/Weathered) uses SwiftUI and data from WeatherAPI.com to present users with current weather conditions for a given city.
    
 ![‎Weathered App Showcase ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/b2650e74-71ae-45e7-a0d5-a936142bff57)
 
