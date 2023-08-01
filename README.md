@@ -32,7 +32,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 
 
 
-## 🕥 Recent Build: Stubs:  A WWDC23 Feature Testing App
+## 🕥 Recent Build: Stubs--A WWDC23 Feature Testing App
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/stubs)
 ![Static Badge](https://img.shields.io/badge/Swift-orange)
 ![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
