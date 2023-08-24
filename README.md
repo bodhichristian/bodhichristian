@@ -28,7 +28,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 
 * [Weathered](https://github.com/bodhichristian/Weathered) uses SwiftUI and data from WeatherAPI.com to present users with current weather conditions for a given city.
    
-![‎Weathered App Showcase ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/b2650e74-71ae-45e7-a0d5-a936142bff57)
+![‎Weathered App Showcase ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/521e4c8f-5aea-4290-90c6-6d48cb263cae)
 
 
 
