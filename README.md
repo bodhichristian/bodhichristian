@@ -61,7 +61,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 
 ## 📚 Current learning path:
 <b>Meta iOS Professional Developer Certificate</b>  
-📖 <i>Current course:</i> React Basics 
+📖 <i>Current course:</i> React Basics  
 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 ⬛️ ⬛️ ⬛️  
 <b>9</b> of <b>12</b> courses complete ✅  
   
