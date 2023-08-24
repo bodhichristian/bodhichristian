@@ -23,6 +23,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/weathered)
 ![Static Badge](https://img.shields.io/badge/Swift-orange)
 ![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
+![Static Badge](https://img.shields.io/badge/SwiftData-orange)
 ![Static Badge](https://img.shields.io/badge/WeatherAPI-gray)
 ![Static Badge](https://img.shields.io/badge/MVVM-gray)
 
