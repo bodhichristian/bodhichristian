@@ -30,8 +30,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 * [Weathered](https://github.com/bodhichristian/Weathered) uses SwiftUI and data from WeatherAPI.com to present users with current weather conditions for a given city.
    
 
-![‎Weathered App Showcase ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/4928d112-88a5-452f-83da-34c53ac2ffd2)
-
+![‎Weathered App Showcase ‎002](https://github.com/bodhichristian/bodhichristian/assets/110639779/41917818-908e-43c6-b24d-e727789dba80)
 
 
 ## 🕥 Recent Build: Stubs - A WWDC23 Feature Testing App
