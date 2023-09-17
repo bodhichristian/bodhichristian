@@ -61,7 +61,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 ![‎twitter transparent ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/ed91fe22-a9ab-4243-a1ff-70f543a1439f)
 
 
-## 📚 Current learning path:
+## 📚 Current learning objective:
 <b>Meta iOS Professional Developer Certificate</b>  
 📖 <i>Current course:</i> React Basics  
 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 ⬛️ ⬛️ ⬛️  
