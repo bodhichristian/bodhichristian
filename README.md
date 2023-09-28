@@ -62,22 +62,3 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 ![‎twitter transparent ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/ed91fe22-a9ab-4243-a1ff-70f543a1439f)
 
 
-## 📚 Current learning objective:
-<b>Meta iOS Professional Developer Certificate</b>  
-📖 <i>Current course:</i> React Basics  
-🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩 ⬛️ ⬛️ ⬛️  
-<b>9</b> of <b>12</b> courses complete ✅  
-  
-![Static Badge](https://img.shields.io/badge/UX/UI_Design_Principles-blue)
-![Static Badge](https://img.shields.io/badge/Figma-blue)
-![Static Badge](https://img.shields.io/badge/HTTP-blue)
-![Static Badge](https://img.shields.io/badge/REST_APIs-blue)
-![Static Badge](https://img.shields.io/badge/Core_Data-blue)  
-![Static Badge](https://img.shields.io/badge/Version_Control-blue)
-![Static Badge](https://img.shields.io/badge/JavaScript-blue)
-![Static Badge](https://img.shields.io/badge/Functional_Programming-blue)
-![Static Badge](https://img.shields.io/badge/OOP-blue)
-
-![‎Certficate Showcase transparent ‎002](https://github.com/bodhichristian/bodhichristian/assets/110639779/0a6a2db3-0d38-47fd-97e8-98a0fb518c03)
-
-
