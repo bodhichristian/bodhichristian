@@ -11,6 +11,8 @@ For free iPhone wallpapers, [click here](https://bit.ly/bodhiwallpapers).
 ![Static Badge](https://img.shields.io/badge/Swift-orange)
 ![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
 ![Static Badge](https://img.shields.io/badge/iOS_17-orange)
+
+* [MaterialTabBar](https://github.com/bodhichristian/MaterialTabBar) provides a floating, ultraThinMaterial tab bar that looks great in light or dark modes, while taking functional queues from Swift's built-in TabView.
 ![MaterialTabBar 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/4171e5c9-c8c9-4807-a9be-74c98097660f)
 
 
