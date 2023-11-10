@@ -5,6 +5,15 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 
 For free iPhone wallpapers, [click here](https://bit.ly/bodhiwallpapers).
 
+## New Component: MaterialTabBar
+![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/MaterialTabBar)
+![GitHub forks](https://img.shields.io/github/forks/bodhichristian/MaterialTabBar)
+![Static Badge](https://img.shields.io/badge/Swift-orange)
+![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
+![Static Badge](https://img.shields.io/badge/iOS_17-orange)
+![MaterialTabBar 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/4171e5c9-c8c9-4807-a9be-74c98097660f)
+
+
 
 ## 📱 Featured App: AskAI 
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/askai)
