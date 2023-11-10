@@ -31,7 +31,7 @@ For free iPhone wallpapers, [click here](https://bit.ly/bodhiwallpapers).
 ![‎AskAI Showcase 1 ‎009](https://github.com/bodhichristian/bodhichristian/assets/110639779/f38119cb-1e72-4799-8aa0-491085697c46)
 
 
-## 👨🏻‍💻 Currently building: Weathered 
+## 🕥 Recent build: Weathered 
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/weathered)
 ![Static Badge](https://img.shields.io/badge/Swift-orange)
 ![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
