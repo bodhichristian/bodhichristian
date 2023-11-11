@@ -14,8 +14,7 @@ For free iPhone wallpapers, [click here](https://bit.ly/bodhiwallpapers).
 
 * [MaterialTabBar](https://github.com/bodhichristian/MaterialTabBar) provides a floating, ultraThinMaterial tab bar that looks great in light or dark modes, while taking functional queues from Swift's built-in TabView.
   
-![MaterialTabBar 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/5266119f-4e4f-4134-ac1f-2bd92552f52b)
-
+![MaterialTabBar 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/af08768a-5ec6-489f-8a87-83bbc7cf57c7)
 
 
 ## 📱 Featured App: AskAI 
