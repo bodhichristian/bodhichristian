@@ -5,7 +5,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 
 For free iPhone wallpapers, [click here](https://bit.ly/bodhiwallpapers).
 
-## New Component: MaterialTabBar
+## MaterialTabBar
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/MaterialTabBar)
 ![GitHub forks](https://img.shields.io/github/forks/bodhichristian/MaterialTabBar)
 ![Static Badge](https://img.shields.io/badge/Swift-orange)
