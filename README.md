@@ -10,7 +10,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 
 ## Components
 
-# 🌼 PetalMenu
+### 🌼 PetalMenu
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/PetalMenu)
 ![GitHub forks](https://img.shields.io/github/forks/bodhichristian/PetalMenu)
 ![Static Badge](https://img.shields.io/badge/Swift-orange)
@@ -19,7 +19,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 * [PetalMenu](https://github.com/bodhichristian/PetalMenu) PetalMenu expands and collapses to provide users a unique way to make a selection.
 ![Petals Showcase 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/e238838b-a826-479f-81df-55c8ef35453e)
 
-## 🏠 MaterialTabBar
+### 🏠 MaterialTabBar
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/MaterialTabBar)
 ![GitHub forks](https://img.shields.io/github/forks/bodhichristian/MaterialTabBar)
 ![Static Badge](https://img.shields.io/badge/Swift-orange)
