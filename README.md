@@ -29,7 +29,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 ![MaterialTabBar 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/af08768a-5ec6-489f-8a87-83bbc7cf57c7)
 
 # Featured Apps
-## 📱 AskAI 
+##📱 AskAI 
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/askai)
 ![GitHub forks](https://img.shields.io/github/forks/bodhichristian/askai)
 ![Static Badge](https://img.shields.io/badge/Swift-orange)
@@ -43,7 +43,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 ![‎AskAI Showcase 1 ‎009](https://github.com/bodhichristian/bodhichristian/assets/110639779/f38119cb-1e72-4799-8aa0-491085697c46)
 
 
-## 🌤️ Recent build: Weathered 
+##🌤️ Weathered 
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/weathered)
 ![Static Badge](https://img.shields.io/badge/Swift-orange)
 ![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
@@ -58,7 +58,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 
 ![‎Weathered App Showcase ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/56cccd19-1058-4bf8-9535-99f18e3d6104)
 
-## 🐦 TwitterClone 
+##🐦 TwitterClone 
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/twitterclone)
 ![Static Badge](https://img.shields.io/badge/Swift-orange)
 ![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
