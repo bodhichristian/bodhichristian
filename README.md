@@ -44,6 +44,18 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
   
 ![‎AskAI Showcase 1 ‎009](https://github.com/bodhichristian/bodhichristian/assets/110639779/f38119cb-1e72-4799-8aa0-491085697c46)
 
+## 🎫 Stubs - A WWDC23 Feature Testing App
+![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/stubs)
+![Static Badge](https://img.shields.io/badge/Swift-orange)
+![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
+![Static Badge](https://img.shields.io/badge/SwiftData-orange)
+![Static Badge](https://img.shields.io/badge/MapKit-green)
+![Static Badge](https://img.shields.io/badge/YouTubeKit-red)
+
+* [Stubs](https://github.com/bodhichristian/Stubs) uses SwiftData to store digital stubs for attended concerts. It serves as a playground for features announced at WWDC23.
+* Users may view their concert stubs on a map with MapKit updates for SwiftUI, or query for YouTube with a concert's details.
+   
+![Stubs Showcase 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/01bfed87-c1c7-4e5c-94ab-3fd71314599f)
 
 ## 🌤️ Weathered 
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/weathered)
@@ -72,17 +84,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
   
 ![‎twitter transparent ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/ed91fe22-a9ab-4243-a1ff-70f543a1439f)
 
-## 🎫 Stubs - A WWDC23 Feature Testing App
-![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/stubs)
-![Static Badge](https://img.shields.io/badge/Swift-orange)
-![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
-![Static Badge](https://img.shields.io/badge/SwiftData-orange)
-![Static Badge](https://img.shields.io/badge/MapKit-green)
-![Static Badge](https://img.shields.io/badge/YouTubeKit-red)
 
-* [Stubs](https://github.com/bodhichristian/Stubs) uses SwiftData to store digital stubs for attended concerts. It serves as a playground for features announced at WWDC23.
-* Users may view their concert stubs on a map with MapKit updates for SwiftUI, or query for YouTube with a concert's details.
-   
-![‎Stubs Showcase ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/046668df-0174-4297-966f-2c802da06bc9)
+
 
 
