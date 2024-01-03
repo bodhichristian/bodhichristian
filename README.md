@@ -46,6 +46,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 
 ## 🎫 Stubs - A WWDC23 Feature Testing App
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/stubs)
+![GitHub forks](https://img.shields.io/github/forks/bodhichristian/stubs)
 ![Static Badge](https://img.shields.io/badge/Swift-orange)
 ![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
 ![Static Badge](https://img.shields.io/badge/SwiftData-orange)
@@ -59,6 +60,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 
 ## 🌤️ Weathered 
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/weathered)
+![GitHub forks](https://img.shields.io/github/forks/bodhichristian/weathered)
 ![Static Badge](https://img.shields.io/badge/Swift-orange)
 ![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
 ![Static Badge](https://img.shields.io/badge/SwiftData-orange)
