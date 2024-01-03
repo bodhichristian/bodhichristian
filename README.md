@@ -55,8 +55,9 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 
 * [Stubs](https://github.com/bodhichristian/Stubs) uses SwiftData to store digital stubs for attended concerts. It serves as a playground for features announced at WWDC23.
 * Users may view their concert stubs on a map with MapKit updates for SwiftUI, or query for YouTube with a concert's details.
-   
-![Stubs Showcase 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/01bfed87-c1c7-4e5c-94ab-3fd71314599f)
+
+![Stubs Showcase 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/20f55bf6-8b21-429b-a0b9-512f5f18ea95)
+
 
 ## 🌤️ Weathered 
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/weathered)
