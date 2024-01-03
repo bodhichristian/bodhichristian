@@ -44,7 +44,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
   
 ![‎AskAI Showcase 1 ‎009](https://github.com/bodhichristian/bodhichristian/assets/110639779/f38119cb-1e72-4799-8aa0-491085697c46)
 
-## 🎫 Stubs - A WWDC23 Feature Testing App
+## 🎫 Stubs
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/stubs)
 ![GitHub forks](https://img.shields.io/github/forks/bodhichristian/stubs)
 ![Static Badge](https://img.shields.io/badge/Swift-orange)
