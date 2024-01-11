@@ -40,7 +40,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 ![Static Badge](https://img.shields.io/badge/MVVM-gray)
 
 
-* [AskAI](https://github.com/bodhichristian/AskAI) provides an approachable, native experience for generating text with ChatGPT and images with DALL·E.
+* [AskAI](https://github.com/bodhichristian/AskAI) is a SwiftUI app that provides an approachable, native experience for generating text with ChatGPT and images with DALL·E. 
   
 ![‎AskAI Showcase 1 ‎009](https://github.com/bodhichristian/bodhichristian/assets/110639779/f38119cb-1e72-4799-8aa0-491085697c46)
 
