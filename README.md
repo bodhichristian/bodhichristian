@@ -55,7 +55,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 
 [Stubs](https://github.com/bodhichristian/Stubs) is a SwiftUI app that allows users to create a collection of concert tickets. Users create custom Stubs and are provided a rich experience from the details. Users may interact with venues courtesy of MapKit, and detailed Artist profiles featuring data from [TheAudioDB](https://www.theaudiodb.com)
 
-![Stubs Showcase 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/20f55bf6-8b21-429b-a0b9-512f5f18ea95)
+![Stubs Showcase 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/14f28e58-f9f5-4bde-bf68-7e5dbb28b58b)
 
 
 ## 🌤️ Weathered 
