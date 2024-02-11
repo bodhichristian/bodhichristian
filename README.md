@@ -6,7 +6,7 @@ App maker and AI enthusiast.
 Follow along as I build iOS apps with Swift and SwiftUI.  
 Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.  
 
-📲 Free iPhone wallpapers [here](https://bit.ly/bodhiwallpapers).
+📲 Free mobile and desktop wallpapers [here](https://bit.ly/bodhiwallpapers).
 
 ## Components
 
