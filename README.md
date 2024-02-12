@@ -26,7 +26,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 ![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
 ![Static Badge](https://img.shields.io/badge/iOS_17-orange)
 
-[MaterialTabBar](https://github.com/bodhichristian/MaterialTabBar) provides a floating, ultraThinMaterial tab bar that looks great in light mode or dark, while taking functional queues from Swift's built-in TabView.
+[MaterialTabBar](https://github.com/bodhichristian/MaterialTabBar) provides a floating, ultraThinMaterial tab bar that works well in light mode or dark, while taking functional queues from Swift's built-in TabView.
   
 ![MaterialTabBar 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/af08768a-5ec6-489f-8a87-83bbc7cf57c7)
 
