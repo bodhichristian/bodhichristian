@@ -81,7 +81,7 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 ![Static Badge](https://img.shields.io/badge/Firebase-red)
 ![Static Badge](https://img.shields.io/badge/MVVM-gray)
 
-[TwitterClone](https://github.com/bodhichristian/TwitterClone) uses SwiftUI to recreate the app formerly known as Twitter. The app uses Firebase for registration/authentication and databasing. 
+[TwitterClone](https://github.com/bodhichristian/TwitterClone) uses SwiftUI to recreate the app formerly known as Twitter. The app uses Firebase for registration, authentication, and databasing. 
   
 ![‎twitter transparent ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/ed91fe22-a9ab-4243-a1ff-70f543a1439f)
 
