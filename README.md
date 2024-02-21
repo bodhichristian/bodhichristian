@@ -31,6 +31,20 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 ![MaterialTabBar 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/af08768a-5ec6-489f-8a87-83bbc7cf57c7)
 
 # Featured Apps
+## 🎫 Stubs
+![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/stubs)
+![GitHub forks](https://img.shields.io/github/forks/bodhichristian/stubs)
+![Static Badge](https://img.shields.io/badge/Swift-orange)
+![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
+![Static Badge](https://img.shields.io/badge/SwiftData-orange)
+![Static Badge](https://img.shields.io/badge/MapKit-green)
+![Static Badge](https://img.shields.io/badge/TheAudioDB-gray)
+
+[Stubs](https://github.com/bodhichristian/Stubs) is a SwiftUI app that allows users to create a collection of concert tickets. Users create custom Stubs and are provided a rich experience from the details. Users may interact with venues courtesy of MapKit, and detailed Artist profiles featuring data from [TheAudioDB](https://www.theaudiodb.com).
+
+![Stubs Showcase 2:21 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/4b49fc3b-4ece-4eed-a2f4-50fcf88945bb)
+
+
 ## 📱 AskAI 
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/askai)
 ![GitHub forks](https://img.shields.io/github/forks/bodhichristian/askai)
@@ -43,20 +57,6 @@ Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.
 [AskAI](https://github.com/bodhichristian/AskAI) is a SwiftUI app that provides an approachable, native experience for generating text with ChatGPT and images with DALL·E. 
   
 ![‎AskAI Showcase 1 ‎009](https://github.com/bodhichristian/bodhichristian/assets/110639779/f38119cb-1e72-4799-8aa0-491085697c46)
-
-## 🎫 Stubs
-![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/stubs)
-![GitHub forks](https://img.shields.io/github/forks/bodhichristian/stubs)
-![Static Badge](https://img.shields.io/badge/Swift-orange)
-![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
-![Static Badge](https://img.shields.io/badge/SwiftData-orange)
-![Static Badge](https://img.shields.io/badge/MapKit-green)
-![Static Badge](https://img.shields.io/badge/TheAudioDB-gray)
-
-[Stubs](https://github.com/bodhichristian/Stubs) is a SwiftUI app that allows users to create a collection of concert tickets. Users create custom Stubs and are provided a rich experience from the details. Users may interact with venues courtesy of MapKit, and detailed Artist profiles featuring data from [TheAudioDB](https://www.theaudiodb.com).
-
-![Stubs Showcase 003](https://github.com/bodhichristian/bodhichristian/assets/110639779/ce86dfba-28fb-49b8-bd5d-0a50be61b026)
-
 
 ## 🌤️ Weathered 
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/weathered)
