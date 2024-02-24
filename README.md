@@ -1,4 +1,3 @@
-![‎GitHub Banner ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/384b6b4c-2493-4975-985a-66110e115167)
 # Welcome
 
 App maker and AI enthusiast.
