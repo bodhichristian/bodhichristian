@@ -4,28 +4,6 @@ Follow along as I build iOS apps with Swift and SwiftUI. Feel free to reach out 
 
 📲 Free mobile and desktop wallpapers [here](https://bit.ly/bodhiwallpapers).
 
-## Components
-
-### 🌼 PetalMenu
-![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/PetalMenu)
-![GitHub forks](https://img.shields.io/github/forks/bodhichristian/PetalMenu)
-![Static Badge](https://img.shields.io/badge/Swift-orange)
-![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
-
-[PetalMenu](https://github.com/bodhichristian/PetalMenu) expands and collapses to provide users a unique way to make a selection.
-![Petals Showcase 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/e238838b-a826-479f-81df-55c8ef35453e)
-
-### 🏠 MaterialTabBar
-![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/MaterialTabBar)
-![GitHub forks](https://img.shields.io/github/forks/bodhichristian/MaterialTabBar)
-![Static Badge](https://img.shields.io/badge/Swift-orange)
-![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
-![Static Badge](https://img.shields.io/badge/iOS_17-orange)
-
-[MaterialTabBar](https://github.com/bodhichristian/MaterialTabBar) provides a floating, ultraThinMaterial tab bar that works well in light mode or dark, while taking functional queues from Swift's built-in TabView.
-  
-![MaterialTabBar 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/af08768a-5ec6-489f-8a87-83bbc7cf57c7)
-
 # Featured Apps
 ## 🎫 Stubs
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/stubs)
@@ -80,6 +58,27 @@ Follow along as I build iOS apps with Swift and SwiftUI. Feel free to reach out 
   
 ![‎twitter transparent ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/ed91fe22-a9ab-4243-a1ff-70f543a1439f)
 
+# Components
+
+## 🌼 PetalMenu
+![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/PetalMenu)
+![GitHub forks](https://img.shields.io/github/forks/bodhichristian/PetalMenu)
+![Static Badge](https://img.shields.io/badge/Swift-orange)
+![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
+
+[PetalMenu](https://github.com/bodhichristian/PetalMenu) expands and collapses to provide users a unique way to make a selection.
+![Petals Showcase 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/e238838b-a826-479f-81df-55c8ef35453e)
+
+## 🏠 MaterialTabBar
+![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/MaterialTabBar)
+![GitHub forks](https://img.shields.io/github/forks/bodhichristian/MaterialTabBar)
+![Static Badge](https://img.shields.io/badge/Swift-orange)
+![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
+![Static Badge](https://img.shields.io/badge/iOS_17-orange)
+
+[MaterialTabBar](https://github.com/bodhichristian/MaterialTabBar) provides a floating, ultraThinMaterial tab bar that works well in light mode or dark, while taking functional queues from Swift's built-in TabView.
+  
+![MaterialTabBar 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/af08768a-5ec6-489f-8a87-83bbc7cf57c7)
 
 
 
