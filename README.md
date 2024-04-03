@@ -14,7 +14,7 @@ Follow along as I build apps for Apple platforms with SwiftUI. Feel free to reac
 ![Static Badge](https://img.shields.io/badge/MapKit-green)
 ![Static Badge](https://img.shields.io/badge/TheAudioDB-gray)
 
-[Stubs](https://github.com/bodhichristian/Stubs) is a multi-platform app that allows users to create and store a collection of concert tickets. Users may interact with visited venues on a map, and access detailed Artist profiles featuring data from [TheAudioDB](https://www.theaudiodb.com). Currently supports iOS and iPadOS.
+[Stubs](https://github.com/bodhichristian/Stubs) is a multi-platform app that allows users to create and store a collection of concert tickets. Users may interact with visited venues on a map, and access detailed Artist profiles featuring data from [TheAudioDB](https://www.theaudiodb.com). Currently supports iOS and iPadOS 17.0+.
 
 ![Stubs Showcase iPhone:iPad 3:4 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/66399c18-2cd0-443d-a4ac-6aeed71b4e19)
 
