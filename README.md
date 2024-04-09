@@ -1,6 +1,6 @@
 # Welcome
  
-Follow along as I build apps for Apple platforms with SwiftUI. Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.  
+Follow along as I build apps with SwiftUI. Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.  
 
 📲 Free mobile and desktop wallpapers [here](https://bit.ly/bodhiwallpapers).
 
