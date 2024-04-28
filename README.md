@@ -2,8 +2,6 @@
  
 Follow along as I build apps with SwiftUI. Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.  
 
-📲 Free mobile and desktop wallpapers [here](https://bit.ly/bodhiwallpapers).
-
 # Featured Apps
 ## 🎫 Stubs
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/stubs)
