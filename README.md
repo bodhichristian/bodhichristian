@@ -1,6 +1,6 @@
 # Welcome
  
-Follow along as I build apps with SwiftUI. Feel free to reach out with feedback, questions, or just to say 👋🏼 hello.  
+Self-taught Swift developer with a passion for design. Building apps for iOS, iPadOS, and macOS.
 
 # Featured Apps
 ## 🎫 Stubs
