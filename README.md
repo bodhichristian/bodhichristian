@@ -12,7 +12,7 @@ Self-taught Swift developer with a passion for design. Building apps for iOS, iP
 ![Static Badge](https://img.shields.io/badge/HealthKit-red)
 ![Static Badge](https://img.shields.io/badge/SwiftAlgorithms-gray)
 
-[Aware](https://github.com/bodhichristian/aware) is an iOS app prototpye for practicing and tracking daily mindfulness. It integrates HealthKit to read and write mindful minutes to the Apple Health app, and leverages Swift Algorithms to enable a heatmap style habit tracker. DocC is used to provide quick help across the code base.
+[Aware](https://github.com/bodhichristian/aware) is an iOS app prototype for practicing and tracking daily mindfulness. It integrates HealthKit to read and write mindful minutes to the Apple Health app, and leverages Swift Algorithms to enable a heatmap style habit tracker. DocC is used to provide quick help across the code base.
 
 ![app gallery 008](https://github.com/user-attachments/assets/010aed39-f0b1-4377-8df7-50abbce7207f)
 
