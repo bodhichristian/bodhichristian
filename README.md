@@ -1,6 +1,6 @@
 # Welcome
  
-Self-taught developer with a passion for design. 
+Self-taught developer with a passion for design.  
 Building apps for iOS, iPadOS, and macOS with Swift and SwiftUI.
 Learning to teach machines with Python.
 
