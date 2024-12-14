@@ -1,8 +1,8 @@
 # Welcome
  
-Self-taught developer with a passion for design.  
-Building apps for iOS, iPadOS, and macOS with Swift and SwiftUI.  
-Learning to teach machines with Python.
+👨🏻‍💻 Self-taught developer with a passion for design.  
+📱 Building apps for iOS, iPadOS, and macOS with SwiftUI.  
+🐍 Learning to teach machines with Python.
 
 # Featured Apps
 
