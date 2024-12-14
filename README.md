@@ -1,6 +1,9 @@
 # Welcome
  
-Self-taught Swift developer with a passion for design. Building apps for iOS, iPadOS, and macOS.
+Self-taught developer with a passion for design. 
+Building apps for iOS, iPadOS, and macOS with Swift and SwiftUI.
+Learning to teach machines with Python.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bodhichristian)](https://github.com/anuraghazra/bodhichristian)
 
 # Featured Apps
 
