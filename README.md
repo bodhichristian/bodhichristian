@@ -41,7 +41,7 @@
 
 [Stubs](https://github.com/bodhichristian/Stubs) is a multi-platform app that allows users to create and store a collection of concert tickets. Users may interact with visited venues on a map, and access detailed Artist profiles featuring data from [TheAudioDB](https://www.theaudiodb.com). Currently supports iOS and iPadOS 17.0+.
 
-![Stubs Showcase iPhone:iPad 3:4 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/66399c18-2cd0-443d-a4ac-6aeed71b4e19)
+![stubs 001](https://github.com/user-attachments/assets/635e6103-ff63-42f5-b413-453d186e3c34)
 
 ## 📱 AskAI 
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/askai)
@@ -54,7 +54,7 @@
 
 [AskAI](https://github.com/bodhichristian/AskAI) is a SwiftUI app that provides an approachable, native experience for generating text with ChatGPT and images with DALL·E. 
   
-![‎AskAI Showcase 1 ‎009](https://github.com/bodhichristian/bodhichristian/assets/110639779/f38119cb-1e72-4799-8aa0-491085697c46)
+![askai 001](https://github.com/user-attachments/assets/e8c18016-98e0-4af7-a614-abcc30a0f90a)
 
 ## 🌤️ Weathered 
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/weathered)
@@ -69,8 +69,7 @@
 
 [Weathered](https://github.com/bodhichristian/Weathered) uses SwiftUI and data from WeatherAPI.com to present users with current weather conditions for a given city.
    
-![trim 001](https://github.com/bodhichristian/bodhichristian/assets/110639779/f535c4ad-3dc3-45f9-a67e-5aaa299ca452)
-
+![weathered 004](https://github.com/user-attachments/assets/634494e2-8380-4320-aa6d-2f7ebeb1a152)
 
 ## 🐦 TwitterClone 
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/twitterclone)
@@ -81,7 +80,7 @@
 
 [TwitterClone](https://github.com/bodhichristian/TwitterClone) uses SwiftUI to recreate the app formerly known as Twitter. The app uses Firebase for registration, authentication, and databasing. 
   
-![‎twitter transparent ‎001](https://github.com/bodhichristian/bodhichristian/assets/110639779/ed91fe22-a9ab-4243-a1ff-70f543a1439f)
+![twitterclone 007](https://github.com/user-attachments/assets/87704870-a8f3-46ab-b418-1b2e6aa6e7fc)
 
 # Components
 
