@@ -18,6 +18,18 @@
 
 ![app gallery 008](https://github.com/user-attachments/assets/010aed39-f0b1-4377-8df7-50abbce7207f)
 
+## 📝 SpiralNotes
+![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/spiralnotes)
+![GitHub forks](https://img.shields.io/github/forks/bodhichristian/spiralnotes)
+![Static Badge](https://img.shields.io/badge/Swift-orange)
+![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
+![Static Badge](https://img.shields.io/badge/SwiftData-orange)
+
+[SpiralNotes](https://github.com/bodhichristian/spiralnotes) is note-taking app for iOS. Users may create loose notes, notebooks to store notes by subject, and sticky notes.
+
+![spiralnotes 001](https://github.com/user-attachments/assets/419af4e2-b125-4540-a5e8-3290e3f4ba87)
+
+
 ## 🎫 Stubs
 ![GitHub Repo stars](https://img.shields.io/github/stars/bodhichristian/stubs)
 ![GitHub forks](https://img.shields.io/github/forks/bodhichristian/stubs)
