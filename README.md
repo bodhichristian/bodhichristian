@@ -1,4 +1,5 @@
 # Christian Lavelle
-# SWE / MLE
+### SWE / MLE
 
-Prototpying apps with SwiftUI. Studying Machine Learning Engineering.
+Prototpying apps with Swift and SwiftUI.   
+Learning to teach machines with Python.
